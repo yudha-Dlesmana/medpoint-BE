@@ -18,13 +18,13 @@ medpoint-BE
 - **├── configs**
 - **│   └── app.yaml**
 - **└── internal**
-- **    ├── bootstrap**
-- **    │   ├── models.go**
-- **    │   ├── roles.go**
-- **    │   ├── route.go**
-- **    │   └── storages.go**
-- **    ├── controllers**
-- **    │   └── hello.go**
-- **    ├── models**
-- **    ├── roles**
-- **    └── storages**
+-     **├── bootstrap**
+-     **│   ├── models.go**
+-     **│   ├── roles.go**
+-     **│   ├── route.go**
+-     **│   └── storages.go**
+-     **├── controllers**
+-     **│   └── hello.go**
+-     **├── models**
+-     **├── roles**
+-     **└── storages**
